@@ -14,7 +14,8 @@ public class LinkedListEx
 	  Iterator<String> itr=al.iterator();  
 	  while(itr.hasNext())
 	  {  
-	   System.out.println(itr.next());  
+	   //System.out.println(itr.next());
+	   System.out.println("Hi");
 	  }  
 	 }  	  
 }
