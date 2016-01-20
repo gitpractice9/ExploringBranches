@@ -15,6 +15,7 @@ public class LinkedListEx
 	  while(itr.hasNext())
 	  {  
 	   //System.out.println(itr.next());  
+	   
 	  }  
 	 }  	  
 }
