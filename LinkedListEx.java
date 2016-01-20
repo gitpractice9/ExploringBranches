@@ -15,7 +15,8 @@ public class LinkedListEx
 	  while(itr.hasNext())
 	  {  
 	   System.out.println(itr.next());  
-	  }  
+	  }
+	  System.Out.println("Practicing git");
 	 }  	  
 }
   /*Output:
